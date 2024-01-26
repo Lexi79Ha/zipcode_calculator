@@ -1,5 +1,5 @@
 <h1>Zip Calculator</h1>
-<h3>Zip Calculator is an app that allows users to input two valid US zipcodes and find the distance between the two zipcodes.</h3>
+<h3>Zip Calculator is an app that allows users to input two valid US zipcodes and find the distance between them.</h3>
 <h2>How does it Work?</h2>
 <h4>-Zip-calculator uses Python, HTML, CSS, and Django, to enable the calculator to be user accessible.</h4>
  <h4>-Python is used to import pgeocode to identify the "US" as the object of the database so that it pulls the coordinates for all zipcodes in the United States.</h4>
