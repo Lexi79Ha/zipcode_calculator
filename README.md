@@ -13,7 +13,7 @@ to calcute the distances between the two zipcodes.</h4>
 <h4>-pgeocode</h4>
 <h4>-django.http import Http Response</h4>
 <h4>-django.shortcuts import render</h4>
-<h4>File Guide</h4>
+<h2>File Guide</h2>
 <h4>Python code is in Views.py</h4>
 <h4>HTML and CSS are in first.html within the templates folder</h4>
 <h3>Author</h3>
