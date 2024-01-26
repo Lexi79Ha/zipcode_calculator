@@ -18,3 +18,4 @@ to calcute the distances between the two zipcodes.</h4>
 <h4>HTML and CSS are in first.html within the templates folder</h4>
 <h3>Author</h3>
 <h4>Alexis Harris</h4>
+<h4>Email: lmh.mo.6@gmail.com</h4>
