@@ -16,6 +16,12 @@ to calcute the distances between the two zipcodes.</h4>
 <h2>File Guide</h2>
 <h4>Python code is in Views.py within zip_app folder</h4>
 <h4>HTML and CSS are in first.html within the templates folder</h4>
+<h2>Command line for running on computer</h2>
+<h4> pip install django </h4>
+<h4> git clone https://github.com/Lexi79Ha/zipcode_calculator.git</h4>
+<h4>cd zipcode_calculator</h4>
+<h4>cd zip_project</h4>
+<h4>python manage.py runserver</h4>
 <h3>Author</h3>
 <h4>Alexis Harris</h4>
 <h4>Email: lmh.mo.6@gmail.com</h4>
