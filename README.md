@@ -1,4 +1,6 @@
 <h1>Zip Calculator</h1>
+<img src="app_ux.png" alt="alt text" />
+<h2>Program Description</h2>
 <h3>Zip Calculator is an app that allows users to input two valid US zipcodes and find the distance between them.</h3>
 <h2>How does it Work?</h2>
 <h4>-Zip-calculator uses Python, HTML, CSS, and Django, to enable the calculator to be user accessible.</h4>
